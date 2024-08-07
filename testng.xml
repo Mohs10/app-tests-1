@@ -3,7 +3,7 @@
 <suite name="Suite">
     <test thread-count="5" name="Test">
         <classes>
-           <class name="com.M10.tests.CalculatorServiceTest.java"/>
+           <class name="com.M10.tests.CalculatorServiceTest"/>
         </classes>
     </test>
 </suite>
